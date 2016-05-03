@@ -28,7 +28,6 @@ Sugar Web
 
 * [Architecture](web-architecture.md.html)
 * [Web code style](web-style.md.html)
-* [Components documentation](sugar-web/README.md.html)
 
 Sugar GTK
 ---------
